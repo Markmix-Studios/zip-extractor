@@ -1,4 +1,4 @@
-# Advanced File Extractor Tool
+# Markmix File Extractor Tool
 
 This is a simple and efficient web tool developed by **Markmix Studios** for extracting files from `.zip` archive files. You can easily upload a `.zip` file, extract its contents, and download individual files directly from the interface.
 
@@ -36,8 +36,5 @@ To use this tool, follow these steps:
 
 This tool is developed by **Markmix Studios Limited**. If you have any questions or suggestions, feel free to open an issue or pull request on the GitHub repository.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 ## DEMO
 <a href= "https://markmix-studios.github.io/zip-extractor"> Visit Zip Extrator Demo Here</a>
